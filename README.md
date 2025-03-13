@@ -43,10 +43,4 @@ To set up the project locally, follow these steps:
    dotnet run
    ```
 
-## Usage
 
-### API Endpoints
-
-#### Chatbot Endpoint
-
-To interact with the chatbot, send a POST request to the API endpoint:
