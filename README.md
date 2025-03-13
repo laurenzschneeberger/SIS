@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Student Information System (SIS) is a comprehensive web application designed to manage educational data. It includes features for handling student information, course management, enrollments, and more. The system also integrates a chatbot powered by OpenAI's GPT-3.5-turbo model to assist users with their queries.
+The Student Information System (SIS) is a comprehensive web application designed to manage educational data. It includes features for handling student information, course management, enrollments, and more. The system also integrates a chatbot powered by OpenAI's GPT-3.5-turbo model to assist users with their queries. It is live on the web under [this](https://sis-h6ffgdawhab9g3g5.westeurope-01.azurewebsites.net/) URL.  
 
 ## Features
 
